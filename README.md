@@ -17,11 +17,18 @@ canvas七彩星背景特效
  * @var dot_maxdis:dot最大距离；
 
 用法：
+
 <body>
+	
 	<canvas id="canvas"></canvas>
+	
 	<script src="js/canvasStar.js"></script>
+	
 	<script>
+	
 		new CanvasStar().init();
+		
 	</script>
+	
 </body>
 
